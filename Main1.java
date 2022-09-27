@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Main1 {
+public class Main1Airline {
   
     public static void main(String[] args) {
  
