@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adikal25
-- 👀 I’m interested in java Developing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in WEB DEV
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me 
 
